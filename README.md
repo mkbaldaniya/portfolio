@@ -197,7 +197,6 @@ If you have any questions, project inquiries, or job opportunities, feel free to
 | Channel | Details / Link |
 | :--- | :--- |
 | 📧 **Email** | [maulikbaldaniya001@gmail.com](mailto:maulikbaldaniya001@gmail.com) |
-| 📞 **Phone** | [+91 8469788414](tel:+918469788414) |
 | 💼 **LinkedIn** | [linkedin.com/in/maulik-baldaniya-795174262](https://www.linkedin.com/in/maulik-baldaniya-795174262/) |
 | 🐙 **GitHub** | [github.com/mkbaldaniya](https://github.com/mkbaldaniya) |
 | 📍 **Location** | Surat, Gujarat, India |
